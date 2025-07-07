@@ -1,0 +1,964 @@
+﻿cod_sucursal,desc_sucursal,cod_pais_region_zona,cod_ciudad
+1, Buenavista Ii                          ,1690423,169008001000
+2,20 De Julio                             ,1690610,169011001000
+3,30 De Agosto                            ,1690330,169066001000
+4,3m                                      ,1690655,169011001000
+5,Abrego                                  ,1690217,169054003000
+6,Acacias                                 ,1690222,169050006000
+7,Acopi Cali                              ,1690327,169076001000
+8,Aerocivil Rionegro                      ,1690155,169005615000
+9,Aeropuerto El Dorado                    ,1690613,169011001000
+10,Aeropuerto Olaya                        ,1690104,169005001000
+11,Aeropuerto Rafael Nunez                 ,1690424,169013001000
+12,Aeropuerto Rionegro                     ,1690106,169005615000
+13,Aguachica                               ,1690268,169020011000
+14,Aguadas                                 ,1690329,169017013000
+15,Aguazul                                 ,1690221,169085010000
+16,Aipe                                    ,1690219,169041016000
+17,Alamedas Del Sinu                       ,1690425,169023001000
+18,Albania                                 ,1690426,169044035000
+19,Alcala                                  ,1690614,169011001000
+20,Alcaldia Armenia                        ,1690333,169063001000
+21,Alcaldia Manizales                      ,1690359,169017001000
+22,Alcaravan                               ,1690221,169085001000
+23,Alkosto Pasto                           ,1690331,169052001000
+24,Almacentro                              ,1690102,169005001000
+25,Almacentro Centro Comercial             ,1690102,169005001000
+26,Alpujarra                               ,1690101,169005001000
+27,Altavista Usme                          ,1690610,169011001000
+28,Alto Prado                              ,1690423,169008001000
+29,Amaga                                   ,1690172,169005030000
+30,Ambalema                                ,1690218,169073030000
+31,America Plaza                           ,1690104,169005001000
+32,Anapoima                                ,1690665,169025035000
+33,Andes                                   ,1690172,169005034000
+34,Anserma                                 ,1690329,169017042000
+35,Antiguo Country                         ,1690612,169011001000
+36,Apartado                                ,1690107,169005045000
+37,Arauca                                  ,1690217,169081001000
+38,Area Andina                             ,1690655,169011001000
+39,Arjona                                  ,1690424,169013052000
+40,Armenia Centro                          ,1690330,169063001000
+41,Armenia Norte                           ,1690330,169063001000
+42,Asesoria Y Venta Barranquilla           ,1690423,169008001000
+43,Asesoria Y Venta Belen                  ,1690170,169005001000
+44,Asesoria Y Venta Cali                   ,1690328,169076001000
+45,Asesoria Y Venta Cartagena              ,1690424,169013001000
+46,Asesoria Y Venta Envigado               ,1690164,169005266000
+47,Asesoria Y Venta Estadio                ,1690164,169005001000
+48,Asesoria Y Venta Itagui                 ,1690105,169005360000
+49,Asesoria Y Venta La America             ,1690164,169005001000
+50,Asesoria Y Venta La Playa               ,1690164,169005001000
+51,Asesoria Y Venta Laureles               ,1690164,169005001000
+52,Asesoria Y Venta Poblado                ,1690164,169005001000
+53,Asesoria Y Venta Rionegro               ,1690106,169005615000
+54,Asesoria Y Venta Unicentro Medellin     ,1690164,169005001000
+55,Astrocentro                             ,1690327,169076001000
+56,Autobanco Conquistadores                ,1690101,169005001000
+57,Autoconavi Avenida Cero                 ,1690217,169054001000
+58,Autogermana                             ,1690655,169011001000
+59,Autonal                                 ,1690655,169011001000
+60,Autopista 184                           ,1690614,169011001000
+61,Autopista 98                            ,1690612,169011001000
+62,Autoservicios Oviedo                    ,1690103,169005001000
+63,Autoservicios San Diego                 ,1690102,169005001000
+64,Av. Industriales                        ,1690120,169005001000
+65,Avenida 127                             ,1690614,169011001000
+66,Avenida 19                              ,1690612,169011001000
+67,Avenida 82                              ,1690612,169011001000
+68,Avenida Bolivariana                     ,1690104,169005001000
+69,Avenida Cañas Gordas                    ,1690327,169076001000
+70,Avenida Caracas                         ,1690610,169011001000
+71,Avenida Cero                            ,1690217,169054001000
+72,Avenida Cero                            ,1690217,169054001000
+73,Avenida Chile                           ,1690612,169011001000
+74,Avenida Circunvalar                     ,1690327,169076001000
+75,Avenida Colombia                        ,1690102,169005001000
+76,Avenida El Poblado                      ,1690103,169005001000
+77,Avenida Junin                           ,1690101,169005001000
+78,Avenida Kennedy                         ,1690469,169008001000
+79,Avenida Las Americas                    ,1690608,169011001000
+80,Avenida Las Vegas                       ,1690103,169005266000
+81,Avenida Libertador B/manga              ,1690216,169068001000
+82,Avenida Nutibara                        ,1690104,169005001000
+83,Avenida Pepe Sierra                     ,1690611,169011001000
+84,Avenida Roosevelt                       ,1690327,169076001000
+85,Avenida Santander                       ,1690329,169017001000
+86,Avenida Sexta Bogota                    ,1690608,169011001000
+87,Avenida Suba                            ,1690614,169011001000
+88,Avenida Suba 106                        ,1690614,169011001000
+89,Ayapel                                  ,1690425,169023068000
+90,Banca Colombia Avenida Cañas Gordas     ,1690327,169076001000
+91,Banca Colombia Avenida Chile            ,1690667,169011001000
+92,Banca Colombia Barranquilla             ,1690423,169008001000
+93,Banca Colombia Bucaramanga              ,1690216,169068001000
+94,Banca Colombia Camino Real              ,1690164,169005001000
+95,Banca Colombia Cartagena                ,1690424,169013001000
+96,Banca Colombia Diez                     ,1690164,169005001000
+97,Banca Colombia Granada Cali             ,1690327,169076001000
+98,Banca Colombia La Cabrera               ,1690667,169011001000
+99,Banca Colombia Manizales                ,1690329,169017001000
+100,Banca Colombia Museo Nacional           ,1690667,169011001000
+101,Banca Colombia Niza                     ,1690667,169011001000
+102,Banca Colombia Oviedo                   ,1690164,169005001000
+103,Banca Colombia Parque Sura              ,1690164,169005001000
+104,Banca Colombia Pereira                  ,1690330,169066001000
+105,Banca Colombia Poblado                  ,1690164,169005001000
+106,Banca Colombia Reserva Del Chico        ,1690667,169011001000
+107,Banca Colombia Rosales                  ,1690667,169011001000
+108,Banca Colombia Salitre                  ,1690667,169011001000
+109,Banca Colombia San Fernando Plaza       ,1690164,169005001000
+110,Banca Colombia Santa Paula              ,1690667,169011001000
+111,Banca Colombia Usaquen                  ,1690667,169011001000
+112,Banca Digital                           ,1690920,169005001000
+113,Bancolombia Universidad De La Sabana    ,1690615,169025175000
+114,Bancolombia Universidad Eafit           ,1690163,169005001000
+115,Bancolombia Universidad Javeriana       ,1690608,169011001000
+116,Bancolombia Universidad Jorge Tadeo Loza,1690655,169011001000
+117,Bancolombia Universidad Pontificia Boliv,1690155,169005001000
+118,Baranoa                                 ,1690469,169008078000
+119,Barbosa                                 ,1690107,169005079000
+120,Barbosa Santander                       ,1690268,169068077000
+121,Barrancabermeja                         ,1690268,169068081000
+122,Barrancas Guajira                       ,1690426,169044078000
+123,Barranquilla                            ,1690469,169008001000
+124,Barrio 7 De Agosto                      ,1690608,169011001000
+125,Barrio Alqueria                         ,1690610,169011001000
+126,Barrio Carvajal                         ,1690609,169011001000
+127,Barrio Cuba                             ,1690330,169066001000
+128,Barrio Restrepo                         ,1690610,169011001000
+129,Barrio Ricaurte                         ,1690608,169011001000
+130,Barrio Santa Lucia                      ,1690610,169011001000
+131,Barrio Santander                        ,1690609,169011001000
+132,Barrio Triste                           ,1690102,169005001000
+133,Barrios Unidos                          ,1690608,169011001000
+134,Bavaria Armenia                         ,1690355,169063001000
+135,Bavaria Bucaramanga                     ,1690255,169068001000
+136,Bavaria Cali                            ,1690355,169076001000
+137,Bavaria Cartagena                       ,1690455,169013001000
+138,Bavaria Cucuta                          ,1690255,169054001000
+139,Bavaria Duitama                         ,1690255,169015806000
+140,Bavaria Girardot                        ,1690255,169025307000
+141,Bavaria Leona                           ,1690655,169025817000
+142,Bavaria Neiva                           ,1690255,169041001000
+143,Bavaria Pasto                           ,1690355,169052001000
+144,Bavaria Santa Marta                     ,1690455,169047001000
+145,Bavaria Techo                           ,1690655,169011001000
+146,Bavaria Valledupar                      ,1690455,169020001000
+147,Bavaria Yumbo                           ,1690355,169076892000
+148,Bayer Avenida Las Americas              ,1690655,169011001000
+149,Bazar Alsacia                           ,1690609,169011001000
+150,Becerril                                ,1690426,169020045000
+151,Belen                                   ,1690104,169005001000
+152,Belen De Umbria                         ,1690329,169066088000
+153,Belen Parque                            ,1690104,169005001000
+154,Bella Suiza                             ,1690611,169011001000
+155,Bello                                   ,1690163,169005088000
+156,Bello                                   ,1690163,169005088000
+157,Belmira                                 ,1690611,169011001000
+158,Betania                                 ,1690172,169005091000
+159,Bocagrande                              ,1690424,169013001000
+160,Bojaca                                  ,1690665,169011001000
+161,Bolivar                                 ,1690102,169005001000
+162,Bosa                                    ,1690665,169011001000
+163,Bosconia                                ,1690426,169020060000
+164,Boulevar Envigado                       ,1690103,169005266000
+165,Bucaramanga                             ,1690216,169068001000
+166,Buenaventura                            ,1690374,169076109000
+167,Buenavista Del Sinu                     ,1690425,169023079000
+168,Buenavista Monteria                     ,1690425,169023001000
+169,Buga                                    ,1690374,169076111000
+170,Bugalagrande                            ,1690374,169076113000
+171,Buganviles                              ,1690219,169041001000
+172,Bulevar                                 ,1690614,169011001000
+173,Bulevar                                 ,1690614,169011001000
+174,Bulevar 54                              ,1690469,169008001000
+175,C.c Único Pasto                         ,1690331,169052001000
+176,C.serv Emp Medellin                     ,1690134,169005001000
+177,C.serv.emp Barranquilla                 ,1690423,169008001000
+178,C.serv.emp Bogota                       ,1690655,169011001000
+179,C.serv.emp Bucaramanga                  ,1690216,169068001000
+180,C.serv.emp Cali                         ,1690340,169076001000
+181,C.serv.emp Cartagena                    ,1690424,169013001000
+182,Cabecera                                ,1690216,169068001000
+183,Cabecera Del Llano                      ,1690216,169068001000
+184,Caicedonia                              ,1690330,169076122000
+185,Caja Restrepo                           ,1690610,169011001000
+186,Cajamarca                               ,1690218,169073124000
+187,Cajica                                  ,1690615,169025126000
+188,Calarca                                 ,1690330,169063130000
+189,Calasanz                                ,1690104,169005001000
+190,Caldas                                  ,1690106,169005129000
+191,Caldas Parque                           ,1690172,169005129000
+192,Cali                                    ,1690332,169076001000
+193,Calima                                  ,1690332,169076001000
+194,Calle 10                                ,1690217,169054001000
+195,Calle 100                               ,1690612,169011001000
+196,Calle 101                               ,1690612,169011001000
+197,Calle 122                               ,1690611,169011001000
+198,Calle 13                                ,1690609,169011001000
+199,Calle 140                               ,1690611,169011001000
+200,Calle 19                                ,1690610,169011001000
+201,Calle 29                                ,1690425,169023001000
+202,Calle 53                                ,1690610,169011001000
+203,Calle 57                                ,1690608,169011001000
+204,Calle 58                                ,1690608,169011001000
+205,Calle 70                                ,1690423,169008001000
+206,Calle 76                                ,1690469,169008001000
+207,Calle 79                                ,1690612,169011001000
+208,Calle 80                                ,1690613,169011001000
+209,Calle 84                                ,1690423,169008001000
+210,Calle 87                                ,1690612,169011001000
+211,Calle 92                                ,1690612,169011001000
+212,Calle Catorce                           ,1690332,169076001000
+213,Calle Nueva                             ,1690102,169005001000
+214,Calle Once                              ,1690608,169011001000
+215,Calle Primera                           ,1690608,169011001000
+216,Callejas                                ,1690611,169011001000
+217,Camino Real                             ,1690101,169005001000
+218,Campanario Popayan                      ,1690331,169019001000
+219,Campoalegre                             ,1690219,169041132000
+220,Canal Corresponsal Bancario             ,1690105,169005001000
+221,Canaveral                               ,1690268,169068001000
+222,Carabobo                                ,1690101,169005001000
+223,Carepa                                  ,1690107,169005147000
+224,Caribe                                  ,1690163,169005001000
+225,Caribe Plaza                            ,1690424,169013001000
+226,Carrera 15                              ,1690332,169076001000
+227,Carrera 20 Sincelejo                    ,1690425,169070001000
+228,Carrera 23                              ,1690329,169017001000
+229,Carrera 26                              ,1690374,169076520000
+230,Carrera 3a.                             ,1690424,169013001000
+231,Carrera 68                              ,1690609,169011001000
+232,Carrera 70                              ,1690104,169005001000
+233,Carrera 80                              ,1690104,169005001000
+234,Carrera Decima                          ,1690608,169011001000
+235,Carrera Octava                          ,1690610,169011001000
+236,Carrera Primera                         ,1690327,169076001000
+237,Carrera Tercera                         ,1690424,169013001000
+238,Cartagena                               ,1690424,169013001000
+239,Cartago                                 ,1690330,169076147000
+240,Carulla Alhambra                        ,1690612,169011001000
+241,Carulla Calle 82                        ,1690469,169008001000
+242,Carulla Llanogrande                     ,1690106,169005615000
+243,Carulla Pablo Vi                        ,1690608,169011001000
+244,Carulla Pepe Sierra                     ,1690611,169011001000
+245,Carulla San Lucas                       ,1690163,169005001000
+246,Carvajal Bogota                         ,1690655,169011001000
+247,Carvajal Santa Monica                   ,1690355,169076001000
+248,Carvajal Yumbo                          ,1690355,169076001000
+249,Casa Del Libro                          ,1690255,169068001000
+250,Casa Del Libro San Gil                  ,1690255,169068679000
+251,Catedral                                ,1690222,169050001000
+252,Caucasia                                ,1690425,169005154000
+253,Cedritos                                ,1690611,169011001000
+254,Cedro Bolivar                           ,1690611,169011001000
+255,Central De Abastos B/manga              ,1690268,169068001000
+256,Central De Abastos Barranquilla         ,1690469,169008001000
+257,Central De Abastos Medellin             ,1690172,169005360000
+258,Centro                                  ,1690608,169011001000
+259,Centro 93                               ,1690612,169011001000
+260,Centro Banco Republica                  ,1690120,169005001000
+261,Centro Bucaramanga                      ,1690216,169068001000
+262,Centro Colon                            ,1690424,169013001000
+263,Centro Coltejer                         ,1690101,169005001000
+264,Centro Comercial Andino                 ,1690612,169011001000
+265,Centro Comercial Atlantis               ,1690612,169011001000
+266,Centro Comercial Fontanar               ,1690615,169025175000
+267,Centro Comercial Hayuelos               ,1690609,169011001000
+268,Centro Comercial Mayorca                ,1690103,169005631000
+269,Centro Comercial Palatino               ,1690611,169011001000
+270,Centro Comercial Punto De La Oriental   ,1690101,169005001000
+271,Centro Comercial Salitre Plaza          ,1690613,169011001000
+272,Centro Comercial San Antonio            ,1690219,169041551000
+273,Centro Comercial Santa Barbara          ,1690611,169011001000
+274,Centro Comercial Santafe                ,1690614,169011001000
+275,Centro Comercial Santafe Medellin       ,1690103,169005001000
+276,Centro Comercial Unico                  ,1690332,169076001000
+277,Centro Contabilidad E Impuestos         ,1690920,169005001000
+278,Centro De La Confeccion                 ,1690172,169005360000
+279,Centro De La Moda                       ,1690105,169005360000
+280,Centro De Pagos Apartado                ,1690107,169005045000
+281,Centro De Pagos Avenida Quinta          ,1690217,169054001000
+282,Centro De Pagos Bello                   ,1690163,169005088000
+283,Centro De Pagos Bucaramanga             ,1690216,169068001000
+284,Centro De Pagos Buenaventura            ,1690374,169076109000
+285,Centro De Pagos Cabecera                ,1690216,169068001000
+286,Centro De Pagos Cali Sur                ,1690328,169076001000
+287,Centro De Pagos Calle 18                ,1690359,169066001000
+288,Centro De Pagos Calle 72                ,1690612,169011001000
+289,Centro De Pagos Cartago                 ,1690330,169076147000
+290,Centro De Pagos Coltejer                ,1690101,169005001000
+291,Centro De Pagos Corabastos              ,1690609,169011001000
+292,Centro De Pagos Cucuta                  ,1690259,169054001000
+293,Centro De Pagos Fontibon                ,1690609,169011001000
+294,Centro De Pagos Guayabal                ,1690104,169005001000
+295,Centro De Pagos Isla Oviedo             ,1690103,169005001000
+296,Centro De Pagos Itagui                  ,1690172,169005360000
+297,Centro De Pagos La 93                   ,1690612,169011001000
+298,Centro De Pagos La America              ,1690104,169005001000
+299,Centro De Pagos La Castellana           ,1690424,169013001000
+300,Centro De Pagos Manizales               ,1690329,169017001000
+301,Centro De Pagos Modelia                 ,1690659,169011001000
+302,Centro De Pagos Monteria                ,1690425,169023001000
+303,Centro De Pagos Monterrey               ,1690103,169005001000
+304,Centro De Pagos Multicentro             ,1690218,169073001000
+305,Centro De Pagos Neiva                   ,1690259,169041001000
+306,Centro De Pagos Occidente               ,1690659,169011001000
+307,Centro De Pagos Palmira                 ,1690374,169076520000
+308,Centro De Pagos Pasto                   ,1690331,169052001000
+309,Centro De Pagos Plaza Americas          ,1690609,169011001000
+310,Centro De Pagos Plaza Mayorista         ,1690172,169005360000
+311,Centro De Pagos Popayan                 ,1690331,169019001000
+312,Centro De Pagos Puerta Grande           ,1690608,169011001000
+313,Centro De Pagos Rionegro                ,1690106,169005615000
+314,Centro De Pagos San Martin              ,1690609,169011001000
+315,Centro De Pagos Santa Marta             ,1690426,169047001000
+316,Centro De Pagos Subazar                 ,1690614,169011001000
+317,Centro De Pagos Tempo                   ,1690103,169005001000
+318,Centro De Pagos Unicentro Bogota        ,1690611,169011001000
+319,Centro De Pagos Valledupar              ,1690426,169020001000
+320,Centro De Pagos Villavicencio           ,1690259,169050001000
+321,Centro De Produccion Bogota             ,1690620,169011001000
+322,Centro Distrital                        ,1690608,169011001000
+323,Centro Empresarial Metropolitano        ,1690613,169011001000
+324,Centro Establecimientos Afiliados       ,1690920,169005001000
+325,Centro Financiero                       ,1690614,169011001000
+326,Centro Industrial                       ,1690609,169011001000
+327,Centro Internacional                    ,1690609,169011001000
+328,Centro Inversiones                      ,1690920,169005001000
+329,Centro Mayor                            ,1690608,169011001000
+330,Centro Moneda Extranjera                ,1690920,169005001000
+331,Centro Nacional De Efectivo             ,1690120,169005001000
+332,Centro Nacional Del Ahorro              ,1690655,169011001000
+333,Centro Nomina                           ,1690920,169005001000
+334,Centro Operativo Armenia                ,1690320,169063001000
+335,Centro Operativo Manizales              ,1690320,169017001000
+336,Centro Operativo Neiva                  ,1690219,169041001000
+337,Centro Operativo Pasto                  ,1690320,169052001000
+338,Centro Operativo Santa Marta            ,1690425,169047001000
+339,Centro Operativo Valledupar             ,1690425,169020001000
+340,Centro Proceso Contable Cartera         ,1690920,169005001000
+341,Centro Regional Operativo Cali          ,1690320,169076001000
+342,Centro Servicios Electronicos           ,1690920,169005001000
+343,Centro Suba                             ,1690614,169011001000
+344,Centro T De C American Express          ,1690920,169005001000
+345,Centro T De C Medellin                  ,1690120,169005001000
+346,Centro Tc Master Card                   ,1690920,169005001000
+347,Centrosur                               ,1690332,169076001000
+348,Cerete                                  ,1690425,169023162000
+349,Cerrito                                 ,1690374,169076248000
+350,Cervunion                               ,1690155,169005360000
+351,Chaparral                               ,1690218,169073168000
+352,Chapinero                               ,1690608,169011001000
+353,Charala                                 ,1690268,169068167000
+354,Chia                                    ,1690615,169025175000
+355,Chico                                   ,1690612,169011001000
+356,Chico 94                                ,1690612,169011001000
+357,Chigorodo                               ,1690107,169005172000
+358,Chinchina                               ,1690329,169017174000
+359,Chinu                                   ,1690425,169023182000
+360,Chipichape                              ,1690327,169076001000
+361,Chiquinquira                            ,1690221,169015176000
+362,Choconta                                ,1690615,169025183000
+363,Cienaga                                 ,1690426,169047189000
+364,Cienaga De Oro                          ,1690425,169023189000
+365,Circunvalar Pereira                     ,1690330,169066001000
+366,City Plaza                              ,1690103,169005001000
+367,Ciudad Bolivar                          ,1690172,169005101000
+368,Ciudad Jardin                           ,1690328,169076001000
+369,Ciudad Kennedy                          ,1690609,169011001000
+370,Ciudad Salitre                          ,1690613,169011001000
+371,Ciudadela Empresarial Calle 26          ,1690613,169011001000
+372,Clientes Filiales                       ,1690120,169005001000
+373,Clinica Somer                           ,1690106,169005615000
+374,Codabas                                 ,1690611,169011001000
+375,Colmotores                              ,1690655,169011001000
+376,Colseguros                              ,1690608,169011001000
+377,Coltabaco                               ,1690101,169005001000
+378,Compania Colombiana Automotriz*         ,1690655,169011001000
+379,Concesionario Caminos                   ,1690355,169066001000
+380,Concordia Antioquia                     ,1690172,169005209000
+381,Consumo BelÉn La Palma                  ,1690105,169005001000
+382,Consumo El Pedregal                     ,1690159,169005001000
+383,Consumo Itagui                          ,1690101,169005360000
+384,Contabilidad Conavi                     ,1690920,169005001000
+385,Contabilidad Corfinsura                 ,1690920,169005001000
+386,Contabilidad Sufinanciamiento           ,1690920,169005001000
+387,Contador                                ,1690611,169011001000
+388,Contecar                                ,1690455,169013001000
+389,Contecar                                ,1690455,169013001000
+390,Copacabana                              ,1690107,169005212000
+391,Corabastos                              ,1690609,169011001000
+392,Corozal                                 ,1690425,169070215000
+393,Cosmocentro                             ,1690332,169076001000
+394,Cota                                    ,1690615,169025214000
+395,Country Plaza                           ,1690423,169008001000
+396,Coveñas                                 ,1690425,169070221000
+397,Cra 30 Calima                           ,1690608,169011001000
+398,Ctro Vinc 1 Medellin                    ,1690120,169005001000
+399,Cucuta                                  ,1690217,169054001000
+400,Cumaral                                 ,1690222,169050226000
+401,Daimler                                 ,1690655,169011001000
+402,Dann Carlton                            ,1690423,169008001000
+403,Departamento De Cundinamarca Centro     ,1690655,169011001000
+404,Departamento De Cundinamarca Norte      ,1690655,169011001000
+405,Departamento De Cundinamarca Sur        ,1690655,169011001000
+406,Diagonal Santander                      ,1690217,169054001000
+407,Dicente                                 ,1690155,169005001000
+408,Digital                                 ,1690120,169005001000
+409,Dir General                             ,1690920,169005001000
+410,Diver Plaza                             ,1690609,169011001000
+411,Don Matias                              ,1690107,169005237000
+412,Dop Bogota                              ,1690620,169011001000
+413,Dop Bogota Cartera                      ,1690620,169011001000
+414,Dop Cali                                ,1690320,169076001000
+415,Dop Cali                                ,1690320,169076001000
+416,Dop Medellin                            ,1690120,169005001000
+417,Dop Medellin Cartera                    ,1690120,169005001000
+418,Dop Pereira                             ,1690320,169066001000
+419,Dorado Plaza                            ,1690613,169011001000
+420,Dosquebradas                            ,1690330,169066170000
+421,Duitama                                 ,1690221,169015238000
+422,Ecopetrol                               ,1690613,169011001000
+423,Ecopetrol Neiva                         ,1690255,169041001000
+424,Edificio Empresas Publicas              ,1690155,169005001000
+425,Edificio Lara                           ,1690610,169011001000
+426,El Bagre                                ,1690425,169005250000
+427,El Bordo Cauca                          ,1690331,169019532000
+428,El Bosque                               ,1690424,169013001000
+429,El Cable                                ,1690329,169017001000
+430,El Cacique                              ,1690216,169068001000
+431,El Can                                  ,1690613,169011001000
+432,El Carmen De Viboral                    ,1690106,169005148000
+433,El Cerrejon                             ,1690655,169011001000
+434,El Dificil                              ,1690426,169047058000
+435,El Guamo                                ,1690218,169073319000
+436,El Lago                                 ,1690330,169066001000
+437,El Limonar Premier                      ,1690332,169076001000
+438,El Penol                                ,1690106,169005541000
+439,El Retiro                               ,1690106,169005607000
+440,El Rodadero                             ,1690426,169047001000
+441,El Rosal                                ,1690615,169025260000
+442,El Tesoro                               ,1690164,169005001000
+443,El Tesoro Centro Comercial              ,1690103,169005001000
+444,El Troncal                              ,1690327,169076001000
+445,Emcali                                  ,1690355,169076001000
+446,Emcali Centro                           ,1690355,169076001000
+447,Emcali Cosmocentro                      ,1690355,169076001000
+448,Emcali La Riviera                       ,1690355,169076001000
+449,Emcali Yumbo                            ,1690355,169076892000
+450,Entrerrios                              ,1690107,169005264000
+451,Envigado                                ,1690103,169005266000
+452,Espinal                                 ,1690218,169073268000
+453,Estacion Metro Acevedo                  ,1690120,169005001000
+454,Estacion Metro Parque Berrio I          ,1690159,169005001000
+455,Estacion Metro San Antonio Occidente    ,1690159,169005001000
+456,Estadio                                 ,1690104,169005001000
+457,Etb Villavicencio                       ,1690255,169050001000
+458,Exito Americas                          ,1690609,169011001000
+459,Exito Barranquilla 2                    ,1690423,169008001000
+460,Exito Bello 2                           ,1690163,169005088000
+461,Exito Bosa                              ,1690666,169011001000
+462,Exito Bucaramanga                       ,1690216,169068001000
+463,Exito Bucaramanga 2                     ,1690216,169068001000
+464,Exito Canaveral                         ,1690268,169068001000
+465,Exito Cartagena                         ,1690424,169013001000
+466,Exito Colina 2                          ,1690666,169011001000
+467,Exito Colina Campestre                  ,1690666,169011001000
+468,Exito Colombia                          ,1690163,169005001000
+469,Exito Colombia 2                        ,1690163,169005001000
+470,Exito Country                           ,1690611,169011001000
+471,Exito Country 2                         ,1690611,169011001000
+472,Exito Envigado                          ,1690163,169005266000
+473,Exito Envigado 2                        ,1690163,169005266000
+474,Exito Fontibon                          ,1690609,169011001000
+475,Exito Ibague                            ,1690218,169073001000
+476,Exito Itagui                            ,1690163,169005360000
+477,Exito La America                        ,1690104,169005001000
+478,Exito La Flora                          ,1690327,169076001000
+479,Exito La Flora 2                        ,1690332,169076001000
+480,Exito Laureles 2                        ,1690163,169005001000
+481,Exito Neiva                             ,1690219,169041001000
+482,Exito Norte                             ,1690611,169011001000
+483,Exito Norte 2                           ,1690666,169011001000
+484,Exito Pasto                             ,1690331,169052001000
+485,Exito Pereira                           ,1690330,169066001000
+486,Exito Poblado                           ,1690163,169005001000
+487,Exito Poblado 2                         ,1690163,169005001000
+488,Exito Popayan                           ,1690331,169019001000
+489,Exito Prado                             ,1690159,169005001000
+490,Exito Salitre                           ,1690666,169011001000
+491,Exito San Fernando                      ,1690327,169076001000
+492,Exito San Fernando 2                    ,1690332,169076001000
+493,Exito San Ignacio                       ,1690159,169005001000
+494,Exito Santa Marta Centro                ,1690426,169047001000
+495,Exito Suba 2                            ,1690614,169011001000
+496,Exito Unicentro                         ,1690104,169005001000
+497,Facatativa                              ,1690665,169025269000
+498,Fanalca                                 ,1690355,169076001000
+499,Floralia                                ,1690609,169011001000
+500,Florencia                               ,1690219,169018001000
+501,Floresta                                ,1690614,169011001000
+502,Florida                                 ,1690374,169076275000
+503,Florida Parque                          ,1690163,169005001000
+504,Floridablanca                           ,1690268,169068276000
+505,Fondo Nacional Del Ahorro               ,1690655,169011001000
+506,Fonseca                                 ,1690426,169044279000
+507,Fontibon                                ,1690609,169011001000
+508,Fontibon Carrera 100                    ,1690609,169011001000
+509,Francisco De Paula Santander            ,1690217,169054001000
+510,Fredonia                                ,1690172,169005282000
+511,Fresno                                  ,1690218,169073283000
+512,Frigorifico                             ,1690655,169011001000
+513,Fundadores Manizales                    ,1690329,169017001000
+514,Funza                                   ,1690665,169025286000
+515,Fusagasuga                              ,1690665,169025290000
+516,Gachancipa                              ,1690615,169025295000
+517,Gaitan                                  ,1690613,169011001000
+518,Galapa                                  ,1690469,169008296000
+519,Galerias                                ,1690610,169011001000
+520,Garagoa                                 ,1690221,169015299000
+521,Garzon                                  ,1690219,169041298000
+522,Gcia Ccial Bca Hip Reg Antioquia        ,1690103,169005001000
+523,Gcia Ccial Bca Hip Region Bogota Y Saban,1690609,169011001000
+524,Gcia Ccial Bca Hip Region Centro        ,1690216,169068001000
+525,Gcia Ccial Bca Hip Region Sur           ,1690328,169076001000
+526,Gcia De Ventas Bca Personal Antioquia   ,1690120,169005001000
+527,Gerencia De Ventas Bca Personal Centro  ,1690620,169011001000
+528,Gerencia De Ventas Bca Personal Sur     ,1690328,169076001000
+529,Gigante                                 ,1690219,169041306000
+530,Girardot                                ,1690218,169025307000
+531,Girardota                               ,1690107,169005308000
+532,Giron                                   ,1690268,169068307000
+533,Gran Plaza Florencia                    ,1690219,169018001000
+534,Granada Cali                            ,1690327,169076001000
+535,Granada Meta                            ,1690222,169050313000
+536,Grancentro                              ,1690423,169008001000
+537,Green Office                            ,1690612,169011001000
+538,Guachene                                ,1690374,169019300000
+539,Guacheta                                ,1690615,169025317000
+540,Guaduas                                 ,1690665,169025320000
+541,Guarne                                  ,1690106,169005318000
+542,Guasca                                  ,1690615,169025322000
+543,Guatapuri                               ,1690426,169020001000
+544,Guayabal                                ,1690104,169005001000
+545,Guayaquil                               ,1690102,169005001000
+546,Hatonuevo                               ,1690426,169044847000
+547,Hino Motors                             ,1690655,169011001000
+548,Honda                                   ,1690218,169073349000
+549,Hospital General                        ,1690101,169005001000
+550,Hospital Pablo Tobon Uribe              ,1690163,169005001000
+551,Hotel Tequendama                        ,1690608,169011001000
+552,Ibague                                  ,1690218,169073001000
+553,Indega Girardot                         ,1690255,169025307000
+554,Indega Ibague                           ,1690255,169073001000
+555,Indega Medellin                         ,1690155,169005001000
+556,Indega Monteria                         ,1690455,169023001000
+557,Indega Neiva                            ,1690255,169041001000
+558,Indega Norte Bogota*                    ,1690655,169011001000
+559,Indega Pasto                            ,1690355,169052001000
+560,Indega Sur Bogota*                      ,1690655,169011001000
+561,Indega Tocancipa                        ,1690655,169025817000
+562,Indega Villavicencio                    ,1690255,169050001000
+563,Inirida                                 ,1690222,169094001000
+564,Intexzona                               ,1690655,169025286000
+565,Ipiales                                 ,1690331,169052356000
+566,Isa Medellin                            ,1690155,169005001000
+567,Isagen                                  ,1690155,169005001000
+568,Itagui                                  ,1690172,169005360000
+569,Itagui Parque                           ,1690172,169005360000
+570,Iwana                                   ,1690268,169068081000
+571,Jamundi                                 ,1690374,169076364000
+572,Jardin                                  ,1690172,169005364000
+573,Jardin Plaza                            ,1690332,169076001000
+574,Johnson & Johnson Yumbo                 ,1690355,169076892000
+575,Jumbo La 65                             ,1690163,169005001000
+576,Jumbo Las Vegas                         ,1690163,169005266000
+577,Jumbo Prado                             ,1690469,169008001000
+578,Kennedy Mandalay                        ,1690609,169011001000
+579,La Aguacatala                           ,1690103,169005001000
+580,La America                              ,1690104,169005001000
+581,La Calera                               ,1690615,169025377000
+582,La Candelaria                           ,1690610,169011001000
+583,La Carolina Unicentro                   ,1690611,169011001000
+584,La Castellana Bogota                    ,1690614,169011001000
+585,La Ceja                                 ,1690106,169005376000
+586,La Ceja Parque                          ,1690106,169005376000
+587,La Dorada                               ,1690106,169017380000
+588,La Ermita                               ,1690332,169076001000
+589,La Estacion Ibague                      ,1690218,169073001000
+590,La Estrella                             ,1690172,169005380000
+591,La Flora                                ,1690332,169076001000
+592,La Frontera                             ,1690103,169005266000
+593,La Gran Estacion                        ,1690613,169011001000
+594,La Herradura                            ,1690374,169076834000
+595,La Loma                                 ,1690426,169020250000
+596,La Luna                                 ,1690332,169076001000
+597,La Mesa                                 ,1690665,169011001000
+598,La Mota                                 ,1690104,169005001000
+599,La Plata                                ,1690219,169041396000
+600,La Playa                                ,1690101,169005001000
+601,La Porciuncula                          ,1690612,169011001000
+602,La Quinta                               ,1690218,169073001000
+603,La Salle                                ,1690610,169011001000
+604,La Sevillana                            ,1690665,169011001000
+605,La Soledad Bogota                       ,1690610,169011001000
+606,La Union                                ,1690374,169076400000
+607,La Union Antioquia                      ,1690106,169005400000
+608,La Union Narino                         ,1690331,169052399000
+609,La Vega                                 ,1690665,169025402000
+610,La Victoria Barranquilla                ,1690469,169008001000
+611,Las Aguas                               ,1690610,169011001000
+612,Las Americas                            ,1690331,169052001000
+613,Las Ceibas                              ,1690219,169041001000
+614,Las Ferias                              ,1690613,169011001000
+615,Las Granjas                             ,1690613,169011001000
+616,Las Palmas                              ,1690216,169068001000
+617,Las Penitas                             ,1690425,169070001000
+618,Laureles                                ,1690104,169005001000
+619,Leasing Lego Ifrs                       ,1690102,169005001000
+620,Lebrija                                 ,1690268,169068406000
+621,Leticia                                 ,1690222,169091001000
+622,Ley Circunvalar                         ,1690359,169066001000
+623,Ley San Diego Medellin                  ,1690102,169005001000
+624,Libano                                  ,1690218,169073411000
+625,Libertadores                            ,1690221,169015001000
+626,Liberty Cali                            ,1690355,169076001000
+627,Llanogrande                             ,1690106,169005615000
+628,Llanogrande Palmira                     ,1690374,169076520000
+629,Lopez De Galarza                        ,1690218,169073001000
+630,Lorica                                  ,1690425,169023417000
+631,Los Alcazares                           ,1690608,169011001000
+632,Los Bongos                              ,1690425,169023001000
+633,Los Dujos                               ,1690219,169041001000
+634,Los Molinos                             ,1690104,169005001000
+635,Los Patios                              ,1690217,169054405000
+636,Madrid                                  ,1690665,169025430000
+637,Magangue                                ,1690425,169013430000
+638,Maicao                                  ,1690426,169044430000
+639,Maizaro                                 ,1690222,169050001000
+640,Malaga                                  ,1690268,169068432000
+641,Malambo                                 ,1690469,169008433000
+642,Mall Plaza Del Castillo                 ,1690424,169013001000
+643,Manaure                                 ,1690426,169044560000
+644,Manga                                   ,1690424,169013001000
+645,Mani                                    ,1690221,169085139000
+646,Manizales                               ,1690329,169017001000
+647,Manrique                                ,1690102,169005001000
+648,Mansarovar                              ,1690655,169011001000
+649,Marinilla                               ,1690106,169005440000
+650,Marinilla Parque                        ,1690106,169005440000
+651,Mariquita                               ,1690218,169073443000
+652,Marly                                   ,1690610,169011001000
+653,Mayales Plaza                           ,1690426,169020001000
+654,Megacity                                ,1690615,169025899000
+655,Megamall                                ,1690216,169068001000
+656,Melgar                                  ,1690218,169073449000
+657,Mercantil                               ,1690608,169011001000
+658,Mercurio Plaza                          ,1690665,169025754000
+659,Metrokia                                ,1690655,169011001000
+660,Metropolis                              ,1690613,169011001000
+661,Milenio Plaza                           ,1690665,169011001000
+662,Mingueo-dibulla                         ,1690426,169044090000
+663,Miramar                                 ,1690469,169008001000
+664,Miranda Cauca                           ,1690374,169019455000
+665,Mix Via 40                              ,1690469,169008001000
+666,Mocoa                                   ,1690219,169086001000
+667,Modelia                                 ,1690613,169011001000
+668,Modelia 2                               ,1690614,169011001000
+669,Mompox                                  ,1690425,169013468000
+670,Monomeros                               ,1690469,169008001000
+671,Montelibano                             ,1690425,169023466000
+672,Montenegro                              ,1690330,169063470000
+673,Monteria                                ,1690425,169023001000
+674,Montevideo                              ,1690613,169011001000
+675,Morato                                  ,1690614,169011001000
+676,Morichal Plaza                          ,1690222,169085001000
+677,Mosquera                                ,1690665,169025473000
+678,Muelles Del Bosque*                     ,1690455,169013001000
+679,Multicentro Ibague                      ,1690218,169073001000
+680,Multiplaza Drive                        ,1690614,169011001000
+681,Municipio De Medellin                   ,1690155,169005001000
+682,Murillo                                 ,1690469,169008001000
+683,Necocli                                 ,1690107,169005490000
+684,Neiva                                   ,1690219,169041001000
+685,Neiva 2                                 ,1690219,169041001000
+686,Neiva La Nueva                          ,1690219,169041001000
+687,Nemocon                                 ,1690615,169025486000
+688,Nissan                                  ,1690655,169011001000
+689,Normandia                               ,1690613,169011001000
+690,North Point                             ,1690611,169011001000
+691,Ocana                                   ,1690217,169054498000
+692,Ocean Mall                              ,1690426,169047001000
+693,Oeste                                   ,1690327,169076001000
+694,Oficina Leasing Lego                    ,1690102,169005001000
+695,Olaya Herrera B/quilla                  ,1690469,169008001000
+696,Olimpica                                ,1690426,169020001000
+697,Olimpica Carabobo                       ,1690159,169005001000
+698,Olimpica La 76                          ,1690469,169008001000
+699,Opain                                   ,1690655,169011001000
+700,Orip Cali                               ,1690355,169076001000
+701,Orip Medellin Norte                     ,1690101,169005001000
+702,Orip Medellin Sur                       ,1690101,169005001000
+703,Orocue                                  ,1690221,169085230000
+704,Otrabanda                               ,1690102,169005001000
+705,Oviedo                                  ,1690103,169005001000
+706,Oviedo Centro Comercial                 ,1690103,169005001000
+707,Pacho                                   ,1690615,169025513000
+708,Paipa                                   ,1690221,169015516000
+709,Palermo                                 ,1690219,169041524000
+710,Palmetto                                ,1690332,169076001000
+711,Palmira                                 ,1690374,169076520000
+712,Palmira 2                               ,1690320,169076520000
+713,Paloquemao                              ,1690609,169011001000
+714,Paloquemao Las Mercedes                 ,1690609,169011001000
+715,Pamplona                                ,1690217,169054518000
+716,Paralelo 108                            ,1690612,169011001000
+717,Park Way                                ,1690610,169011001000
+718,Parque Arboleda                         ,1690330,169066001000
+719,Parque Bolivar                          ,1690102,169005001000
+720,Parque Caracoli                         ,1690268,169068276000
+721,Parque Comercial Avenida Calle 80       ,1690613,169011001000
+722,Parque Concordia                        ,1690216,169068001000
+723,Parque La Colina                        ,1690614,169011001000
+724,Parque Murillo Toro                     ,1690218,169073001000
+725,Parque Nacional                         ,1690612,169011001000
+726,Parque San Antonio                      ,1690101,169005001000
+727,Parque Washington                       ,1690423,169008001000
+728,Pasaje La Candelaria                    ,1690101,169005001000
+729,Paseo Bolivar                           ,1690469,169008001000
+730,Paseo Botero                            ,1690101,169005001000
+731,Paseo Del Comercio                      ,1690216,169068001000
+732,Paseo Del Poblado                       ,1690103,169005001000
+733,Paseo La Castellana                     ,1690424,169013001000
+734,Paso Ancho                              ,1690332,169076001000
+735,Pasto                                   ,1690331,169052001000
+736,Paz De Ariporo                          ,1690221,169085250000
+737,Pereira                                 ,1690330,169066001000
+738,Pereira Plaza                           ,1690330,169066001000
+739,Piedecuesta                             ,1690268,169068547000
+740,Pitalito                                ,1690219,169041551000
+741,Planeta Rica                            ,1690425,169023555000
+742,Plato                                   ,1690426,169047555000
+743,Plaza Caycedo                           ,1690332,169076001000
+744,Plaza De Bolivar                        ,1690218,169073001000
+745,Plaza De Bolivar Armenia                ,1690330,169063001000
+746,Plaza De Bolivar Pereira                ,1690330,169066001000
+747,Plaza De Ferias                         ,1690107,169005001000
+748,Plaza De Flores                         ,1690102,169005001000
+749,Plaza De La Aduana                      ,1690424,169013001000
+750,Plaza De Las Americas                   ,1690609,169011001000
+751,Plaza De Mercado Manizales              ,1690329,169017001000
+752,Plaza De Mercado Monteria               ,1690425,169023001000
+753,Plaza Del Rio                           ,1690107,169005045000
+754,Plaza Espana                            ,1690610,169011001000
+755,Plaza Imperial Suba                     ,1690614,169011001000
+756,Plaza Mayor                             ,1690101,169005001000
+757,Plaza Minorista                         ,1690101,169005001000
+758,Plazas Del Bosque                       ,1690218,169073001000
+759,Plazoleta                               ,1690101,169005001000
+760,Plazuelas De La 76                      ,1690104,169005001000
+761,Polo Club                               ,1690614,169011001000
+762,Popayan                                 ,1690331,169019001000
+763,Portal De La 80                         ,1690665,169011001000
+764,Portal Del Prado                        ,1690423,169008001000
+765,Pradera                                 ,1690374,169076563000
+766,Prado Plaza                             ,1690426,169047001000
+767,Prados Del Norte                        ,1690332,169076001000
+768,Premium Plaza                           ,1690102,169005001000
+769,Primavera                               ,1690222,169050001000
+770,Profesionales                           ,1690216,169068001000
+771,Proyecto Delta Factoring                ,1690102,169005001000
+772,Pueblo Nuevo                            ,1690374,169076109000
+773,Puente Aranda                           ,1690609,169011001000
+774,Puente Largo                            ,1690614,169011001000
+775,Puerta Del Norte                        ,1690163,169005088000
+776,Puerta Del Rio                          ,1690164,169005001000
+777,Puerto Asis                             ,1690219,169086568000
+778,Puerto Berrio                           ,1690107,169005579000
+779,Puerto Boyaca                           ,1690106,169015572000
+780,Puerto Carreño                          ,1690222,169099001000
+781,Puerto Gaitan                           ,1690222,169050568000
+782,Puerto Lopez                            ,1690222,169050573000
+783,Puerto Nare                             ,1690106,169005585000
+784,Puerto Salgar                           ,1690106,169025572000
+785,Punto Clave                             ,1690102,169005001000
+786,Purificacion                            ,1690218,169073585000
+787,Quebrada Seca                           ,1690216,169068001000
+788,Quibdo                                  ,1690172,169027001000
+789,Quimbaya                                ,1690330,169063594000
+790,Quinta Avenida                          ,1690219,169041001000
+791,Quinta Camacho                          ,1690612,169011001000
+792,Quinta Paredes                          ,1690613,169011001000
+793,Quirigua                                ,1690614,169011001000
+794,Ramiriqui                               ,1690221,169015599000
+795,Real De Minas                           ,1690216,169068001000
+796,Riohacha                                ,1690426,169044001000
+797,Rionegro                                ,1690106,169005615000
+798,Rionegro Parque                         ,1690106,169005615000
+799,Riosucio                                ,1690329,169017614000
+800,Roche*                                  ,1690655,169011001000
+801,Roldanillo                              ,1690374,169076622000
+802,Ruta N                                  ,1690101,169005001000
+803,Sabana De Torres                        ,1690268,169068655000
+804,Sabana Norte Chia                       ,1690615,169025175000
+805,Sabanalarga                             ,1690469,169008638000
+806,Sabaneta                                ,1690172,169005631000
+807,Sabaneta Aves Maria                     ,1690172,169005631000
+808,Sahagun                                 ,1690425,169023660000
+809,Saldana                                 ,1690218,169073671000
+810,Salgar                                  ,1690172,169005642000
+811,Salitre Plaza                           ,1690613,169011001000
+812,Samaca                                  ,1690221,169015646000
+813,Samper Mendoza                          ,1690608,169011001000
+814,San Andres                              ,1690424,169088001000
+815,San Diego                               ,1690102,169005001000
+816,San Diego Bogota                        ,1690608,169011001000
+817,San Fernando                            ,1690327,169076001000
+818,San Fernando Plaza                      ,1690103,169005001000
+819,San Francisco                           ,1690426,169047001000
+820,San Gil                                 ,1690268,169068679000
+821,San Jose Del Guaviare                   ,1690222,169095001000
+822,San Juan                                ,1690104,169005001000
+823,San Lucas Plaza                         ,1690164,169005001000
+824,San Luis                                ,1690613,169011001000
+825,San Marcos                              ,1690425,169070708000
+826,San Martin                              ,1690268,169020770000
+827,San Mateo                               ,1690217,169054001000
+828,San Nicolas Barranquilla                ,1690423,169008001000
+829,San Nicolas Cali                        ,1690327,169076001000
+830,San Nicolas Rionegro                    ,1690106,169005615000
+831,San Pedro                               ,1690107,169005664000
+832,San Vicente Del Caguan                  ,1690219,169018753000
+833,Sancancio                               ,1690329,169017001000
+834,Sandona                                 ,1690331,169052683000
+835,Sanofi                                  ,1690655,169011001000
+836,Santa Barbara                           ,1690172,169005679000
+837,Santa Beatriz                           ,1690611,169011001000
+838,Santa Helena                            ,1690320,169076001000
+839,Santa Helenita                          ,1690609,169011001000
+840,Santa Lucia                             ,1690424,169013001000
+841,Santa Marta                             ,1690426,169047001000
+842,Santa Monica                            ,1690332,169076001000
+843,Santa Rosa De Cabal                     ,1690329,169066682000
+844,Santa Rosa De Osos                      ,1690107,169005686000
+845,Santa Teresita                          ,1690104,169005001000
+846,Santafe De Antioquia                    ,1690107,169005042000
+847,Santander De Quilichao                  ,1690374,169019698000
+848,Santiago De Tolu                        ,1690425,169070820000
+849,Santillana                              ,1690103,169005001000
+850,Santuario                               ,1690106,169005697000
+851,Sao Portal De La 80                     ,1690666,169011001000
+852,Sebastian De Belalcazar                 ,1690331,169052001000
+853,Segovia                                 ,1690107,169005736000
+854,Sesquile                                ,1690615,169025736000
+855,Sevilla                                 ,1690374,169076736000
+856,Sibate                                  ,1690665,169025740000
+857,Siberia                                 ,1690665,169025799000
+858,Simijaca                                ,1690221,169025745000
+859,Since                                   ,1690425,169070742000
+860,Sincelejo                               ,1690425,169070001000
+861,Soacha                                  ,1690665,169025754000
+862,Socha                                   ,1690221,169015757000
+863,Sociedad Portuaria Barranquilla *       ,1690469,169008001000
+864,Sociedad Portuaria Cartagena*           ,1690455,169013001000
+865,Sociedad Portuaria Santa Marta          ,1690455,169047001000
+866,Socorro Santander                       ,1690268,169068547000
+867,Sofasa Chia                             ,1690615,169025175000
+868,Sofasa Envigado                         ,1690155,169005266000
+869,Sogamoso                                ,1690221,169015759000
+870,Soledad                                 ,1690469,169008758000
+871,Sonson                                  ,1690106,169005756000
+872,Sopo                                    ,1690615,169025758000
+873,Subachoque                              ,1690615,169025769000
+874,Sucursal PanamÁ                         ,1690120,169005001000
+875,Supersociedades *                       ,1690655,169011001000
+876,Supia                                   ,1690329,169017777000
+877,Suramericana                            ,1690102,169005001000
+878,Surtimax Itagui                         ,1690159,169005360000
+879,Tabio                                   ,1690615,169025785000
+880,Tarjeta Debito                          ,1690120,169005001000
+881,Tauramena                               ,1690221,169085410000
+882,Teatro Avenida                          ,1690101,169005001000
+883,Teleport                                ,1690612,169011001000
+884,Tenjo                                   ,1690615,169025799000
+885,Tequendama                              ,1690327,169076001000
+886,Terminal De Carga Internacional         ,1690613,169011001000
+887,Terminal De Transporte Bogota           ,1690613,169011001000
+888,Terminal De Transporte Norte            ,1690163,169005001000
+889,Terminal De Transporte Sur              ,1690655,169011001000
+890,Terminal Del Sur                        ,1690104,169005001000
+891,Terpel Del Centro*                      ,1690359,169017001000
+892,Tertulia                                ,1690327,169076001000
+893,Tesoreria Cali                          ,1690320,169076001000
+894,Tesoreria Medellin                      ,1690920,169005001000
+895,Titan Plaza                             ,1690614,169011001000
+896,Toberin                                 ,1690614,169011001000
+897,Tocancipa                               ,1690615,169025817000
+898,Trinidad Galan                          ,1690609,169011001000
+899,Tulua                                   ,1690374,169076834000
+900,Tumaco                                  ,1690331,169052835000
+901,Tunja                                   ,1690221,169015001000
+902,Tuquerres                               ,1690331,169052838000
+903,Turbo                                   ,1690107,169005837000
+904,Turin                                   ,1690330,169066001000
+905,Ubate                                   ,1690615,169025843000
+906,Ugi                                     ,1690608,169011001000
+907,Unicentro Armenia                       ,1690330,169063001000
+908,Unicentro Bogota                        ,1690611,169011001000
+909,Unicentro Cali                          ,1690332,169076001000
+910,Unicentro Cucuta                        ,1690217,169054001000
+911,Unicentro Medellin                      ,1690104,169005001000
+912,Unicentro Pasto                         ,1690331,169052001000
+913,Unicentro Pereira                       ,1690330,169066001000
+914,Unicentro Tunja                         ,1690221,169015001000
+915,Unicentro Villavicencio                 ,1690222,169050001000
+916,Unicentro Yopal                         ,1690221,169085001000
+917,Unico Barranquilla                      ,1690469,169008001000
+918,Uniplex                                 ,1690330,169066001000
+919,Unisur                                  ,1690665,169011001000
+920,Universidad Autonoma                    ,1690655,169011001000
+921,Universidad De Medellin                 ,1690104,169005001000
+922,Universidad Del Norte *                 ,1690455,169008001000
+923,Universidad Nacional Medellin           ,1690155,169005001000
+924,Universidad Popular Del Cesar           ,1690455,169020001000
+925,Uribia                                  ,1690426,169044847000
+926,Urrao Antioquia                         ,1690172,169005847000
+927,Usaquen Santa Barbara                   ,1690611,169011001000
+928,Valle Del Lili                          ,1690332,169076001000
+929,Valledupar                              ,1690426,169020001000
+930,Valores Direccion General Antioquia     ,1690157,169005001000
+931,Valores Wtc Barranquilla                ,1690457,169008001000
+932,Valvanera                               ,1690610,169011001000
+933,Velez                                   ,1690268,169068861000
+934,Venecia                                 ,1690610,169011001000
+935,Ventura Plaza                           ,1690217,169054001000
+936,Versalles                               ,1690332,169076001000
+937,Victoria Plaza                          ,1690330,169066001000
+938,Villa Campestre                         ,1690423,169008573000
+939,Villa Country                           ,1690469,169008001000
+940,Villa De Leyva                          ,1690221,169015407000
+941,Villacolombia                           ,1690332,169076001000
+942,Villanueva                              ,1690102,169005001000
+943,Villanueva Casanare                     ,1690222,169085440000
+944,Villanueva Centro Comercial             ,1690102,169005001000
+945,Villapinzon                             ,1690615,169025873000
+946,Villavicencio                           ,1690222,169050001000
+947,Villeta                                 ,1690665,169025875000
+948,Vipasa                                  ,1690327,169076001000
+949,Virtual                                 ,1690920,169005001000
+950,Visitacion                              ,1690164,169005001000
+951,Viva Barranquilla                       ,1690469,169008001000
+952,Viva Laureles                           ,1690163,169005001000
+953,Viva Palmas                             ,1690106,169005266000
+954,Viva Villavicencio                      ,1690222,169050001000
+955,World Trade Center                      ,1690611,169011001000
+956,Yaguara                                 ,1690219,169041885000
+957,Yarumal                                 ,1690107,169005887000
+958,Yopal                                   ,1690221,169085001000
+959,Yumbo                                   ,1690374,169076892000
+960,Zipaquira                               ,1690615,169025899000
+961,Zona Franca                             ,1690106,169005615000
+962,Zona Franca Bogota                      ,1690655,169011001000
+963,Zona Rosa                               ,1690103,169005001000

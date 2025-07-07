@@ -1,0 +1,284 @@
+﻿cod_pais,cod_departamento,desc_departamento
+169,000,Sin Informacion
+169,005,Antioquia
+169,008,Atlantico
+169,011,Cundinamarca
+169,013,Bolivar
+169,015,Boyaca
+169,017,Caldas
+169,018,Caqueta
+169,019,Cauca
+169,020,Cesar
+169,023,Cordoba
+169,025,Cundinamarca
+169,027,Choco
+169,041,Huila
+169,044,La Guajira
+169,047,Magdalena
+169,050,Meta
+169,052,Nariño
+169,054,Norte De Santander
+169,063,Quindio
+169,066,Risaralda
+169,068,Santander
+169,070,Sucre
+169,073,Tolima
+169,076,Valle
+169,081,Arauca
+169,085,Casanare
+169,086,Putumayo
+169,088,San Andres
+169,091,Amazonas
+169,094,Guania
+169,095,Guaviare
+169,097,Vaupes
+169,099,Vichada
+169,076,Cauca
+004,001,Afganistan
+008,001,Albania
+010,001,Antartida
+012,001,Argelia
+016,001,Samoa Americana
+020,001,Andorra
+024,001,Angola
+028,001,Antigua Y Barbu
+031,001,Azerbaiyan
+032,001,Argentina
+036,001,Australia
+040,001,Austria
+044,001,Bahamas
+048,001,Bahrein
+050,001,Bangladesh
+051,001,Armenia
+052,001,Barbados
+056,001,Belgica
+060,001,Bermudas
+064,001,Butan
+068,001,Bolivia
+070,001,Bosnia Y Herzeg
+072,001,Botsuana
+074,001,Isla Bouvet
+076,001,Brasil
+084,001,Belice
+086,001,T B Oceano Ind
+090,001,Islas Salomon
+092,001,I Virgenes Brit
+096,001,Brunei
+100,001,Bulgaria
+104,001,Myanmar
+108,001,Burundi
+112,001,Bielorrusia
+116,001,Camboya
+120,001,Camerun
+124,001,Canada
+132,001,Cabo Verde
+136,001,Islas Caiman
+140,001,R Centroafrican
+144,001,Sri Lanka
+148,001,Chad
+152,001,Chile
+156,001,China
+158,001,Taiwan
+162,001,Isla De Navidad
+166,001,Islas Cocos
+174,001,Comoras
+175,001,Mayotte
+178,001,Rep Del Congo
+180,001,R Dca Del Congo
+184,001,Islas Cook
+188,001,Costa Rica
+191,001,Croacia
+192,001,Cuba
+196,001,Chipre
+203,001,Republica Checa
+204,001,Benin
+208,001,Dinamarca
+212,001,Dominica
+214,001,Rep Dominicana
+218,001,Ecuador
+222,001,El Salvador
+226,001,Guinea Ecuatori
+231,001,Etiopia
+232,001,Eritrea
+233,001,Estonia
+234,001,Islas Feroe
+238,001,Islas Malvinas
+239,001,I Georg Y Sandw
+242,001,Fiyi
+246,001,Finlandia
+248,001,Aland
+250,001,Francia
+254,001,Guayana Frances
+258,001,Poline Francesa
+260,001,T Australes Fra
+262,001,Yibuti
+266,001,Gabon
+268,001,Georgia
+270,001,Gambia
+275,001,Palestina
+276,001,Alemania
+288,001,Ghana
+292,001,Gibraltar
+296,001,Kiribati
+300,001,Grecia
+304,001,Groenlandia
+308,001,Granada
+312,001,Guadalupe
+316,001,Guam
+320,001,Guatemala
+324,001,Guinea
+328,001,Guyana
+332,001,Haiti
+334,001,I Heard Y Mcdon
+336,001,Ciudad Vaticano
+340,001,Honduras
+344,001,Hong Kong
+348,001,Hungria
+352,001,Islandia
+356,001,India
+360,001,Indonesia
+364,001,Iran
+368,001,Iraq
+372,001,Irlanda
+376,001,Israel
+380,001,Italia
+384,001,Costa De Marfil
+388,001,Jamaica
+392,001,Japon
+398,001,Kazajistan
+400,001,Jordania
+404,001,Kenia
+408,001,Corea Del Norte
+410,001,Corea Del Sur
+414,001,Kuwait
+417,001,Kirguistan
+418,001,Laos
+422,001,Libano
+426,001,Lesoto
+428,001,Letonia
+430,001,Liberia
+434,001,Libia
+438,001,Liechtenstein
+440,001,Lituania
+442,001,Luxemburgo
+446,001,Macao
+450,001,Madagascar
+454,001,Malawi
+458,001,Malasia
+462,001,Maldivas
+466,001,Mali
+470,001,Malta
+474,001,Martinica
+478,001,Mauritania
+480,001,Mauricio
+484,001,Mexico
+492,001,Monaco
+496,001,Mongolia
+498,001,Moldavia
+499,001,Montenegro
+500,001,Montserrat
+504,001,Marruecos
+508,001,Mozambique
+512,001,Oman
+516,001,Namibia
+520,001,Nauru
+524,001,Nepal
+528,001,Holanda
+531,001,Curazao
+533,001,Aruba
+534,001,San Martin Alem
+535,001,Caribe Holandes
+540,001,Nueva Caledonia
+548,001,Vanuatu
+554,001,Nueva Zelanda
+558,001,Nicaragua
+562,001,Niger
+566,001,Nigeria
+570,001,Niue
+574,001,Norfolk
+578,001,Noruega
+580,001,Islas Marianas
+581,001,Islas Um Ee Uu
+583,001,Micronesia
+584,001,Islas Marshall
+585,001,Palaos
+586,001,Pakistan
+591,001,Panama
+598,001,Papua Nueva Gui
+600,001,Paraguay
+604,001,Peru
+608,001,Filipinas
+612,001,Islas Pitcairn
+616,001,Polonia
+620,001,Portugal
+624,001,Guinea Bissau
+626,001,Timor Oriental
+630,001,Puerto Rico
+634,001,Qatar
+638,001,Reunion
+642,001,Rumania
+643,001,Rusia
+646,001,Ruanda
+652,001,San Bartolome
+654,001,Santa Helena
+659,001,S Cristobal Y N
+660,001,Anguila
+662,001,Santa Lucia
+663,001,San Martin Fran
+666,001,S Pedro Y Mique
+670,001,S Vicente Y Gra
+674,001,San Marino
+678,001,Sto Tome Y Prin
+682,001,Arabia Saudita
+686,001,Senegal
+688,001,Serbia
+690,001,Seychelles
+694,001,Sierra Leona
+702,001,Singapur
+703,001,Eslovaquia
+704,001,Vietnam
+705,001,Eslovenia
+706,001,Somalia
+710,001,Sudafrica
+716,001,Zimbabue
+724,001,España
+728,001,Sudan Del Sur
+729,001,Sudan
+732,001,Sahara Occident
+740,001,Surinam
+744,001,Svalbard Y J M
+748,001,Suazilandia
+752,001,Suecia
+756,001,Suiza
+760,001,Siria
+762,001,Tayikistan
+764,001,Tailandia
+768,001,Togo
+772,001,Tokelau
+776,001,Tonga
+780,001,Trinidad Y Toba
+784,001,Emir Arabes Uni
+788,001,Tunez
+792,001,Turquia
+795,001,Turkmenistan
+796,001,I Turcas Y Caic
+798,001,Tuvalu
+800,001,Uganda
+804,001,Ucrania
+807,001,Macedonia
+818,001,Egipto
+826,001,Reino Unido
+831,001,Guernsey
+832,001,Jersey
+833,001,Isla De Man
+834,001,Tanzania
+840,001,Estados Unidos
+850,001,I Virgenes Eeuu
+854,001,Burkina Faso
+858,001,Uruguay
+860,001,Uzbekistan
+862,001,Venezuela
+876,001,Wallis Y Futuna
+882,001,Samoa
+887,001,Yemen
+894,001,Zambia
