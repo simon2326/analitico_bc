@@ -1,0 +1,90 @@
+﻿cod_pais_region_zona,desc_zona,cod_region,cod_pais
+1690000,Sin Zona,00,169
+1690100,Sin Zona,01,169
+1690200,Sin Zona,02,169
+1690300,Sin Zona,03,169
+1690400,Sin Zona,04,169
+1690500,Sin Zona,05,169
+1690600,Sin Zona,06,169
+1690700,Sin Zona,07,169
+1690800,Sin Zona,08,169
+1690900,Sin Zona,09,169
+1691000,Sin Zona,10,169
+1692100,Sin Zona,21,169
+1690101,Zona Centro Antioquia,01,169
+1690301,Zona Centro Antioquia,03,169
+1690601,Zona Centro Antioquia,06,169
+1690102,Zona Metropolitana Antioquia,01,169
+1690103,Zona Poblado Antioquia,01,169
+1690403,Zona Poblado Antioquia,04,169
+1690104,Zona Occidente Antioquia,01,169
+1690105,Zona Sur Antioquia,01,169
+1690106,Zona Oriente Y Magdalena Medio,01,169
+1690107,Zona Norte Antioquia,01,169
+1690608,Zona Centro Bogota Y Sabana,06,169
+1690609,Zona Industrial Bogota Y Sabana,06,169
+1690610,Zona Metropolitana Bogota Y Sabana,06,169
+1690611,Zona Norte Bogota Y Sabana,06,169
+1690412,Zona Oriente Bogota Y Sabana,04,169
+1690612,Zona Oriente Bogota Y Sabana,06,169
+1690113,Zona Occidente Bogota Y Sabana,01,169
+1690613,Zona Occidente Bogota Y Sabana,06,169
+1690014,Zona Noroccidente Bogota Y Sabana,00,169
+1690614,Zona Noroccidente Bogota Y Sabana,06,169
+1690615,Zona Sabana Bogota Y Sabana,06,169
+1690116,Zona Bucaramanga,01,169
+1690216,Zona Bucaramanga,02,169
+1690217,Zona Norte De Santander,02,169
+1690218,Zona Tolima,02,169
+1690219,Zona Surcolombiana,02,169
+1690120,Zona Para Oficinas Que No Existen,01,169
+1690320,Zona Para Oficinas Que No Existen,03,169
+1690620,Zona Para Oficinas Que No Existen,06,169
+1690920,Zona Para Oficinas Que No Existen,09,169
+1690221,Zona Boyaca Y Casanare,02,169
+1690222,Zona Orinoquia Y Amazonia,02,169
+1690323,Zona Barranquilla,03,169
+1690423,Zona Barranquilla,04,169
+1690424,Zona Cartagena,04,169
+1690325,Zona Sinu Y Sabanas,03,169
+1690425,Zona Sinu Y Sabanas,04,169
+1690426,Zona Sierra Nevada,04,169
+1690327,Zona Cali Industrial,03,169
+1690328,Zona Cali Preferencial,03,169
+1690329,Zona Eje Norte Caldas,03,169
+1690330,Zona Risaralda Y Norte Del Valle,03,169
+1690331,Zona Nariño,03,169
+1690332,Zona Cali Comercial,03,169
+1690333,Zona Quindio Y Centro Del Valle,03,169
+1690134,Zona 1 Reg. Bancas Especiales Medellin,01,169
+1690340,Zona 1 Reg. Bancas Especiales Cali,03,169
+1690646,Zona 1 Infraestructura Y Recursos Naturales,06,169
+1690647,Zona 2 Zona Manufacturera Y Cio Bca Emp Bgta,06,169
+1690648,Zona 3 Zona Gbno E Institucional Bca Emp Bgta,06,169
+1690155,Zona Empresas,01,169
+1690255,Zona Empresas,02,169
+1690355,Zona Empresas,03,169
+1690455,Zona Empresas,04,169
+1690655,Zona Empresas,06,169
+1690157,Zona Prestigio,01,169
+1690457,Zona Prestigio,04,169
+1690159,Zona Transaccional,01,169
+1690259,Zona Transaccional,02,169
+1690359,Zona Transaccional,03,169
+1690659,Zona Transaccional,06,169
+1690161,Zona 1 Antioquia,01,169
+1690162,Zona 2 Antioquia,01,169
+1690163,Zona Valle De Aburra,01,169
+1690164,Zona Preferencial Antioquia,01,169
+1690665,Zona Suroccidente Bogota Y Sabana,06,169
+1690666,Zona Bogota Gerenciamiento Pyme 2,06,169
+1690667,Zona Gerenciamiento Bogota Y Saba,06,169
+1690268,Zona Santander,02,169
+1690469,Zona Atlantico,04,169
+1690170,Zona Gerenciamiento Antioquia,01,169
+1690370,Zona Gerenciamiento Antioquia,03,169
+1690670,Zona Gerenciamiento Antioquia,06,169
+1690271,Zona Meta,02,169
+1690172,Zona Suroeste Y Choco,01,169
+1690673,Zona Gerenciamiento Pyme 1,06,169
+1690374,Zona Cauca Y Sur Del Valle,03,169
